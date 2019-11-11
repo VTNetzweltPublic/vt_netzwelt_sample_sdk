@@ -1,0 +1,2 @@
+include ':app', ':adssdksample'
+rootProject.name='VT_Netzwelt_Sample_SDK'
